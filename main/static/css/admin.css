@@ -1,0 +1,40 @@
+#header {
+    height: 50px !important;
+    background-color: #10284e !important;
+    color: #fff !important;
+}
+
+#header h1 {
+    color: #fff !important;
+}
+
+a:link,
+a:visited {
+    color: #10284e !important;
+}
+
+div.breadcrumbs {
+    background-color: #30caa0 !important;
+    color: #10284e !important;
+}
+
+div.breadcrumbs a {
+    color: #333 !important;
+}
+
+.module h2,
+.module caption,
+.module .section,
+.inline-group h2 {
+    background-color: #30caa0 !important;
+    color: #10284e !important;
+}
+
+.button,
+input[type=submit],
+input[type=button],
+.submit-row input,
+a.button {
+    background-color: #10284e !important;
+    color: #fff !important;
+}
